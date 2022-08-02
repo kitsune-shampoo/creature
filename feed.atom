@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T07:38:08.719Z</id>
+    <id>https://kitsune-shampoo.github.io/creature/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-02T07:38:08.719Z</updated>
+    <updated>2022-08-02T07:50:42.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://kitsune-shampoo.github.io/creature/index.html"/>
+    <link rel="self" href="https://kitsune-shampoo.github.io/creature/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[野菜嫌い克服へ? AI活用のプリン]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434405?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434405?source=rss"/>
+        <updated>2022-08-02T04:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Evaluation Metrics for Regression Problems in Machine Learning]]></title>
         <id>https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/</id>
@@ -47,6 +58,16 @@ Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally publis
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[時代遅れ?「おとう飯」SNSで物議]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434338?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434338?source=rss"/>
+        <updated>2022-08-01T10:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fluid Sizing Instead Of Multiple Media Queries?]]></title>
         <id>https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/</id>
         <link href="https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/"/>
@@ -54,6 +75,16 @@ Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally publis
         <summary type="html"><![CDATA[If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ruslan Yevych)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優しく話して 発熱外来に病院訴え]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434275?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434275?source=rss"/>
+        <updated>2022-08-01T01:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +105,36 @@ Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally publis
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自治体でデジタル人材共有 検討]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434180?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434180?source=rss"/>
+        <updated>2022-07-30T23:28:16.000Z</updated>
+        <summary type="html"><![CDATA[画像：アフロ]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAZN 仏リーグアンの放映権獲得]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434123?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434123?source=rss"/>
+        <updated>2022-07-30T04:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法隆寺クラファン 目標額の7倍超]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434100?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434100?source=rss"/>
+        <updated>2022-07-29T23:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
         </author>
     </entry>
     <entry>
@@ -125,6 +186,26 @@ Scroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tri
         <summary type="html"><![CDATA[With the advent of Web 2.0, authenticating users became a crucial task for developers.  Before Web 2.0, website visitors could only view the content of a web page – there was no interaction. This era of the internet was called Web 1.0. But after Web 2.0, people gained the]]></summary>
         <author>
             <name>Hrishikesh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI補償に便乗 詐欺メールに注意]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434083?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434083?source=rss"/>
+        <updated>2022-07-29T12:54:07.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI おわび返金「200円」根拠は]]></title>
+        <id>https://news.yahoo.co.jp/pickup/6434068?source=rss</id>
+        <link href="https://news.yahoo.co.jp/pickup/6434068?source=rss"/>
+        <updated>2022-07-29T10:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo!ニュース]]></summary>
+        <author>
+            <name>Yahoo!ニュース・トピックス - IT</name>
         </author>
     </entry>
     <entry>

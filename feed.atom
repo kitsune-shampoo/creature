@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kitsune-shampoo.github.io/creature/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T01:19:13.582Z</updated>
+    <updated>2023-05-12T01:18:35.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://kitsune-shampoo.github.io/creature/index.html"/>
     <link rel="self" href="https://kitsune-shampoo.github.io/creature/feed.atom"/>
